@@ -1,8 +1,0 @@
-C:\Users\Саша\source\repos\course-lib\bin\Debug\netstandard2.0\course-lib.deps.json
-C:\Users\Саша\source\repos\course-lib\bin\Debug\netstandard2.0\course-lib.dll
-C:\Users\Саша\source\repos\course-lib\bin\Debug\netstandard2.0\course-lib.pdb
-C:\Users\Саша\source\repos\course-lib\obj\Debug\netstandard2.0\course-lib.csprojAssemblyReference.cache
-C:\Users\Саша\source\repos\course-lib\obj\Debug\netstandard2.0\course-lib.AssemblyInfoInputs.cache
-C:\Users\Саша\source\repos\course-lib\obj\Debug\netstandard2.0\course-lib.AssemblyInfo.cs
-C:\Users\Саша\source\repos\course-lib\obj\Debug\netstandard2.0\course-lib.dll
-C:\Users\Саша\source\repos\course-lib\obj\Debug\netstandard2.0\course-lib.pdb
