@@ -1,0 +1,4 @@
+﻿  lab5plus.cpp
+C:\Users\Саша\source\repos\lab5plus\lab5plus.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Саша\source\repos\lab5plus\lab5plus.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  lab5plus.vcxproj -> C:\Users\Саша\source\repos\lab5plus\Debug\lab5plus.exe

@@ -1,0 +1,11 @@
+C:\Users\Саша\source\repos\lab4sharp\bin\Debug\netcoreapp3.1\lab4sharp.exe
+C:\Users\Саша\source\repos\lab4sharp\bin\Debug\netcoreapp3.1\lab4sharp.deps.json
+C:\Users\Саша\source\repos\lab4sharp\bin\Debug\netcoreapp3.1\lab4sharp.runtimeconfig.json
+C:\Users\Саша\source\repos\lab4sharp\bin\Debug\netcoreapp3.1\lab4sharp.runtimeconfig.dev.json
+C:\Users\Саша\source\repos\lab4sharp\bin\Debug\netcoreapp3.1\lab4sharp.dll
+C:\Users\Саша\source\repos\lab4sharp\bin\Debug\netcoreapp3.1\lab4sharp.pdb
+C:\Users\Саша\source\repos\lab4sharp\obj\Debug\netcoreapp3.1\lab4sharp.AssemblyInfoInputs.cache
+C:\Users\Саша\source\repos\lab4sharp\obj\Debug\netcoreapp3.1\lab4sharp.AssemblyInfo.cs
+C:\Users\Саша\source\repos\lab4sharp\obj\Debug\netcoreapp3.1\lab4sharp.dll
+C:\Users\Саша\source\repos\lab4sharp\obj\Debug\netcoreapp3.1\lab4sharp.pdb
+C:\Users\Саша\source\repos\lab4sharp\obj\Debug\netcoreapp3.1\lab4sharp.csprojAssemblyReference.cache

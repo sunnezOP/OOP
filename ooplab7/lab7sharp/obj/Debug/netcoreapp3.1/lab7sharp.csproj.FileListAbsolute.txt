@@ -1,0 +1,11 @@
+C:\Users\Саша\source\repos\lab7sharp\bin\Debug\netcoreapp3.1\lab7sharp.exe
+C:\Users\Саша\source\repos\lab7sharp\bin\Debug\netcoreapp3.1\lab7sharp.deps.json
+C:\Users\Саша\source\repos\lab7sharp\bin\Debug\netcoreapp3.1\lab7sharp.runtimeconfig.json
+C:\Users\Саша\source\repos\lab7sharp\bin\Debug\netcoreapp3.1\lab7sharp.runtimeconfig.dev.json
+C:\Users\Саша\source\repos\lab7sharp\bin\Debug\netcoreapp3.1\lab7sharp.dll
+C:\Users\Саша\source\repos\lab7sharp\bin\Debug\netcoreapp3.1\lab7sharp.pdb
+C:\Users\Саша\source\repos\lab7sharp\obj\Debug\netcoreapp3.1\lab7sharp.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\lab7sharp\obj\Debug\netcoreapp3.1\lab7sharp.AssemblyInfoInputs.cache
+C:\Users\Саша\source\repos\lab7sharp\obj\Debug\netcoreapp3.1\lab7sharp.AssemblyInfo.cs
+C:\Users\Саша\source\repos\lab7sharp\obj\Debug\netcoreapp3.1\lab7sharp.dll
+C:\Users\Саша\source\repos\lab7sharp\obj\Debug\netcoreapp3.1\lab7sharp.pdb

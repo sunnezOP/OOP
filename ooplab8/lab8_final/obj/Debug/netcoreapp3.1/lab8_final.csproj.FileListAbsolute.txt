@@ -1,0 +1,14 @@
+C:\Users\Саша\source\repos\lab8_final\bin\Debug\netcoreapp3.1\lab8_final.exe
+C:\Users\Саша\source\repos\lab8_final\bin\Debug\netcoreapp3.1\lab8_final.deps.json
+C:\Users\Саша\source\repos\lab8_final\bin\Debug\netcoreapp3.1\lab8_final.runtimeconfig.json
+C:\Users\Саша\source\repos\lab8_final\bin\Debug\netcoreapp3.1\lab8_final.runtimeconfig.dev.json
+C:\Users\Саша\source\repos\lab8_final\bin\Debug\netcoreapp3.1\lab8_final.dll
+C:\Users\Саша\source\repos\lab8_final\bin\Debug\netcoreapp3.1\lab8_final.pdb
+C:\Users\Саша\source\repos\lab8_final\obj\Debug\netcoreapp3.1\lab8_final.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\lab8_final\obj\Debug\netcoreapp3.1\lab8_final.AssemblyInfoInputs.cache
+C:\Users\Саша\source\repos\lab8_final\obj\Debug\netcoreapp3.1\lab8_final.AssemblyInfo.cs
+C:\Users\Саша\source\repos\lab8_final\obj\Debug\netcoreapp3.1\lab8_final.dll
+C:\Users\Саша\source\repos\lab8_final\obj\Debug\netcoreapp3.1\lab8_final.pdb
+C:\Users\Саша\source\repos\lab8_final\bin\Debug\netcoreapp3.1\lablib8.dll
+C:\Users\Саша\source\repos\lab8_final\bin\Debug\netcoreapp3.1\lablib8.pdb
+C:\Users\Саша\source\repos\lab8_final\obj\Debug\netcoreapp3.1\lab8_final.csproj.CopyComplete

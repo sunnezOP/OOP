@@ -1,0 +1,8 @@
+C:\Users\Саша\source\repos\lablib8\bin\Debug\netstandard2.0\lablib8.deps.json
+C:\Users\Саша\source\repos\lablib8\bin\Debug\netstandard2.0\lablib8.dll
+C:\Users\Саша\source\repos\lablib8\bin\Debug\netstandard2.0\lablib8.pdb
+C:\Users\Саша\source\repos\lablib8\obj\Debug\netstandard2.0\lablib8.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\lablib8\obj\Debug\netstandard2.0\lablib8.AssemblyInfoInputs.cache
+C:\Users\Саша\source\repos\lablib8\obj\Debug\netstandard2.0\lablib8.AssemblyInfo.cs
+C:\Users\Саша\source\repos\lablib8\obj\Debug\netstandard2.0\lablib8.dll
+C:\Users\Саша\source\repos\lablib8\obj\Debug\netstandard2.0\lablib8.pdb

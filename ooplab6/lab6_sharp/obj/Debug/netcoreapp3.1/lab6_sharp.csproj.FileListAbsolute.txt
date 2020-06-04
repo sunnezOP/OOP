@@ -1,0 +1,11 @@
+C:\Users\Саша\source\repos\lab6_sharp\bin\Debug\netcoreapp3.1\lab6_sharp.exe
+C:\Users\Саша\source\repos\lab6_sharp\bin\Debug\netcoreapp3.1\lab6_sharp.deps.json
+C:\Users\Саша\source\repos\lab6_sharp\bin\Debug\netcoreapp3.1\lab6_sharp.runtimeconfig.json
+C:\Users\Саша\source\repos\lab6_sharp\bin\Debug\netcoreapp3.1\lab6_sharp.runtimeconfig.dev.json
+C:\Users\Саша\source\repos\lab6_sharp\bin\Debug\netcoreapp3.1\lab6_sharp.dll
+C:\Users\Саша\source\repos\lab6_sharp\bin\Debug\netcoreapp3.1\lab6_sharp.pdb
+C:\Users\Саша\source\repos\lab6_sharp\obj\Debug\netcoreapp3.1\lab6_sharp.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\lab6_sharp\obj\Debug\netcoreapp3.1\lab6_sharp.AssemblyInfoInputs.cache
+C:\Users\Саша\source\repos\lab6_sharp\obj\Debug\netcoreapp3.1\lab6_sharp.AssemblyInfo.cs
+C:\Users\Саша\source\repos\lab6_sharp\obj\Debug\netcoreapp3.1\lab6_sharp.dll
+C:\Users\Саша\source\repos\lab6_sharp\obj\Debug\netcoreapp3.1\lab6_sharp.pdb
