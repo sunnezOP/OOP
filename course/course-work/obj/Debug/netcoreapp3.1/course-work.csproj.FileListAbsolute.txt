@@ -1,0 +1,11 @@
+C:\Users\Саша\source\repos\course-work\obj\Debug\netcoreapp3.1\course-work.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\course-work\obj\Debug\netcoreapp3.1\course-work.AssemblyInfoInputs.cache
+C:\Users\Саша\source\repos\course-work\obj\Debug\netcoreapp3.1\course-work.AssemblyInfo.cs
+C:\Users\Саша\source\repos\course-work\bin\Debug\netcoreapp3.1\course-work.exe
+C:\Users\Саша\source\repos\course-work\bin\Debug\netcoreapp3.1\course-work.deps.json
+C:\Users\Саша\source\repos\course-work\bin\Debug\netcoreapp3.1\course-work.runtimeconfig.json
+C:\Users\Саша\source\repos\course-work\bin\Debug\netcoreapp3.1\course-work.runtimeconfig.dev.json
+C:\Users\Саша\source\repos\course-work\bin\Debug\netcoreapp3.1\course-work.dll
+C:\Users\Саша\source\repos\course-work\bin\Debug\netcoreapp3.1\course-work.pdb
+C:\Users\Саша\source\repos\course-work\obj\Debug\netcoreapp3.1\course-work.dll
+C:\Users\Саша\source\repos\course-work\obj\Debug\netcoreapp3.1\course-work.pdb
