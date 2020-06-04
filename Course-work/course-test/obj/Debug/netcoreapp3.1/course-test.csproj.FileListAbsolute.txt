@@ -1,0 +1,14 @@
+C:\Users\Саша\source\repos\course-test\bin\Debug\netcoreapp3.1\course-test.exe
+C:\Users\Саша\source\repos\course-test\bin\Debug\netcoreapp3.1\course-test.deps.json
+C:\Users\Саша\source\repos\course-test\bin\Debug\netcoreapp3.1\course-test.runtimeconfig.json
+C:\Users\Саша\source\repos\course-test\bin\Debug\netcoreapp3.1\course-test.runtimeconfig.dev.json
+C:\Users\Саша\source\repos\course-test\bin\Debug\netcoreapp3.1\course-test.dll
+C:\Users\Саша\source\repos\course-test\bin\Debug\netcoreapp3.1\course-test.pdb
+C:\Users\Саша\source\repos\course-test\bin\Debug\netcoreapp3.1\course-lib.dll
+C:\Users\Саша\source\repos\course-test\bin\Debug\netcoreapp3.1\course-lib.pdb
+C:\Users\Саша\source\repos\course-test\obj\Debug\netcoreapp3.1\course-test.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\course-test\obj\Debug\netcoreapp3.1\course-test.AssemblyInfoInputs.cache
+C:\Users\Саша\source\repos\course-test\obj\Debug\netcoreapp3.1\course-test.AssemblyInfo.cs
+C:\Users\Саша\source\repos\course-test\obj\Debug\netcoreapp3.1\course-test.csproj.CopyComplete
+C:\Users\Саша\source\repos\course-test\obj\Debug\netcoreapp3.1\course-test.dll
+C:\Users\Саша\source\repos\course-test\obj\Debug\netcoreapp3.1\course-test.pdb
